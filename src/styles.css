@@ -1,0 +1,28 @@
+h1{
+  width: 30vw;
+}
+.botão {
+  height: 10vh;
+  width: 25vw;
+  margin-top:23%;
+  margin-left: -25%;
+  background: #B9DFFF;
+  color:black;
+  border: 1px solid #eee;
+  border-radius: 20px;
+  box-shadow: 2.5px 2.5px 2.5px #eee;
+  text-shadow:none;
+}
+.caixa-geral {
+  display: flex;
+  width: 94vw;
+  height: 80vh;
+}
+.pets {
+  display: flex;
+  margin-top: 29vh;
+  margin-left: 1vw;
+  width: 45vw;
+  height: 57vh;
+  
+}
